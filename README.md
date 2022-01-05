@@ -1,2 +1,2 @@
 # RTL+
-# img='icon/unnamed.png
+# <a img='unnamed.png</a>
