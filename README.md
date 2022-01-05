@@ -1,2 +1,2 @@
 # RTL+
-''icon/unnamed.png''
+'icon'unnamed.png
